@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+}
+
+.banner{
+  background-image: url("../images/building.png");
+}
+#footer{
+  text-align: left;
+}
