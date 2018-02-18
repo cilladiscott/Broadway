@@ -1,10 +1,40 @@
 body{
   text-align: center;
+  font-family: Helvetica;
 }
 
 .banner{
   background-image: url("../images/building.png");
 }
+
+h1{
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+.bannerlinks p{
+  font-size: 18px;
+  color: white;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-size: 32px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
+}
+h4{
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
 #footer{
   text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
